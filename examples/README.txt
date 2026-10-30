@@ -1,0 +1,1 @@
+Blue Orbit is an original mathematical Gaussian-splat example created for Muling. No photos, personal data, or third-party model assets were used. You may download, import, modify, and export this example for use with Muling. The file is binary little-endian PLY with Gaussian and camera metadata.
